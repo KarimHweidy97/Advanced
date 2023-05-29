@@ -9,5 +9,5 @@ int main(void)
 	int g = 70;
 	int y=125;
 	int xx = 100;
-	
+	int yy=54;
 }
