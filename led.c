@@ -4,4 +4,5 @@ int main()
 	int y = 50;
 	int z=25;
 	int xx=20;
+	int yy=30;
 }
