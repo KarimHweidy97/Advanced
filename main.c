@@ -9,4 +9,5 @@ int main(void)
 	int g = 70;
 	int y=125;
 	char ff =66;
+	char mm = 7;
 }
